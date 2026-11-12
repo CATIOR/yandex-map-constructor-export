@@ -1,5 +1,7 @@
 # Yandex Map Constructor — Unlimited Hi-Res Export
 
+<img width="1525" height="934" alt="Экспорт без лимитов" src="https://github.com/user-attachments/assets/751ce381-104f-4d17-a764-1ac3e1e8f3d3" />
+
 > [Русская версия (README.ru.md)](./README.ru.md)
 
 A userscript for exporting custom maps and schemas from Yandex Map Constructor (`yandex.*/map-constructor`) as high-resolution PNG images without built-in size or zoom restrictions.
